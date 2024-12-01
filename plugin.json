@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "hentaivnnow",
+    "author": "Zaw",
+    "version": 1,
+    "source": "https://hentaivn.now",
+    "regexp": "(www.)?hentaivn.now/truyen-hentai/[^/]+/?$",
+    "description": "Đọc truyện trên trang hentainow",
+    "locale": "vi_VN",
+    "tag": "nsfw",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
